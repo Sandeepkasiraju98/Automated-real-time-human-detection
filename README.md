@@ -1,3 +1,4 @@
+ HEAD
 # Human Face Detection with Parallel Computing
 
 This repository provides the implementation of a human face detection solution using various parallel computing approaches: OpenMP, MPI, and MPI Broadcast. The problem is addressed using the YOLOv3 model for object detection with the ImageAI library.
@@ -70,3 +71,6 @@ To run using different number of processes, i.e. 2, 4, and 8, run the script fil
     - README.md
 
 This repository also contains a python file for weak scaling under 'code' folder, named as 'ws_mpi.py'.
+
+# Automated-real-time-human-detection
+ 64940fbdbb06b906f73e60e71126a5595795aea3
